@@ -8,7 +8,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=crestadev&layout=compact&theme=transparent&card_width=400"
     alt="Top Languages"
-    height="165"
+    height="175"
   />
 
 </div>
