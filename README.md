@@ -16,3 +16,12 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=crestadev&theme=transparent&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
+    alt="GitHub Streak" 
+    width="65%" 
+    style="border: 2px solid white; border-radius: 12px; padding: 5px;" 
+  />
+</p>
+
