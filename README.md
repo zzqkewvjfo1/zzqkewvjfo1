@@ -17,14 +17,6 @@
   </tr>
 </table>
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=crestadev&theme=transparent&hide_border=false&ring=555555&fire=555555&currStreakLabel=555555" 
-    alt="GitHub Streak" 
-    width="65%" 
-    style="border: 2px solid #555555; border-radius: 12px; padding: 5px;"
-  />
-</p>
-
-  </picture>
-</p>
-
+  <span style="border:2px solid #ffffff; padding:5px; border-radius:12px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crestadev&theme=transparent&hide_border=true" alt="GitHub Streak" width="65%" />
+  </span>
